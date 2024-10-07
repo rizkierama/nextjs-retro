@@ -6,7 +6,7 @@
 | Nama Lengkap | Rizki Ramadhan |
 | Kelas | TI-5B |
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
-| Mata Kuliah | MultiMedia
+| Mata Kuliah | Pemrograman API
 
 # PRAKTIK
 [Source Code](GrafikaKomputer_p5js_1)
