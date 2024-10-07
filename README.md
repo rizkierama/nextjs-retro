@@ -1,5 +1,15 @@
-# praktek-nextjs
+# DATA DIRI
 
-Repositori untuk praktek Matakuliah Pemograman API Kelas 5A dan 5B dengan Spesifikasi Standart NextJS versi 14.0.3 
+|  |  |
+|--|--|
+| NIM | 22104410088 |
+| Nama Lengkap | Rizki Ramadhan |
+| Kelas | TI-5B |
+| Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
+| Mata Kuliah | MultiMedia
 
-Silahkan gunakan perintah git clone untuk melakukan clone repo ini ke Komputer Anda 
+# PRAKTIK
+[Source Code](GrafikaKomputer_p5js_1)
+
+
+| Pemrograman API |
