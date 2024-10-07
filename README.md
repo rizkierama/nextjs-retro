@@ -8,8 +8,3 @@
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
 | Mata Kuliah | Pemrograman API
 
-# PRAKTIK
-[Source Code](GrafikaKomputer_p5js_1)
-
-
-| Pemrograman API |
